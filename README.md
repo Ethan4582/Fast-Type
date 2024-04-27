@@ -1,4 +1,4 @@
-# Typing Game
+ # Typing Game
 
 This is a simple typing game built using HTML, CSS, and JavaScript. It tests your typing speed and accuracy by prompting you to type a series of words within a given time limit.
 
@@ -27,6 +27,8 @@ To run the game, simply open the `index.html` file in a web browser.
 5. View your typing speed and accuracy results.
 
 ## Screenshots
+![Screenshot 2024-04-27 170419](https://github.com/Ethan4582/Fast-Type/assets/139244359/4bf30e8f-1d07-494d-91bb-15858759f95c)
+![Screenshot 2024-04-27 170436](https://github.com/Ethan4582/Fast-Type/assets/139244359/cfbca87b-6e13-4a98-8191-2ad8077d9d7c)
 
 
 ## Contributing
